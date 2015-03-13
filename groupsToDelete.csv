@@ -1,0 +1,4 @@
+#Maintain the column names as below and the groups can be fetched from 
+#http://serverIp:port/share/proxy/alfresco/api/groups?sortBy=displayName&maxItems=300&skipCount=0
+authorityType,shortName,fullName,displayName,url,zones/0,zones/1
+GROUP,ytyty,GROUP_ytyty,ytyty,/api/groups/ytyty,APP.DEFAULT,AUTH.EXT.ldap1
